@@ -1,0 +1,11 @@
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\bin\Debug\Convert_temp_withLogic.exe.config
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\bin\Debug\Convert_temp_withLogic.exe
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\bin\Debug\Convert_temp_withLogic.pdb
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\bin\Debug\Convert_temp_withLogic.xml
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.vbproj.AssemblyReference.cache
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.Resources.resources
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.vbproj.GenerateResource.cache
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.vbproj.CoreCompileInputs.cache
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.exe
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.xml
+C:\Users\kukel\OneDrive\Desktop\Programming Logic and Problem Solving\Convert_temp_withLogic\Convert_temp_withLogic\obj\Debug\Convert_temp_withLogic.pdb
